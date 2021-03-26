@@ -54,7 +54,6 @@
     }  
       
  ?> 
- 
- <h6>Written by Heminder Ahluwalia.</h6>
+ <h6></h6>
  </body>
 </html>
